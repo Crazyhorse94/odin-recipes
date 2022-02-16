@@ -1,0 +1,58 @@
+body{
+    background-color: beige;
+}
+
+.first{
+    color: rgb(18, 82, 60);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    margin-left: 50px;
+    text-shadow: 2px 2px 4px black;
+
+}
+
+.pork, .scones, .coffee{
+    border-width: 5px;
+    border-color: rgb(133, 133, 133);
+    border-style: groove;
+    margin-left: 30px;
+    background-color: rgb(132, 214, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    width: 250px;
+    text-align: center;
+    color: black;
+}
+/*detta är en komentar*/
+a{
+    color: black;
+}
+.frukt{
+    border-image-outset: 5px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: outset;
+}
+.favourites, .owen{
+    font-size: 20px;
+    color: rgb(18, 82, 60);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50px;
+}
+.recipe, .ingredients {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(18, 82, 60);
+}
+.under {
+    color: rgb(18, 82, 60);
+    -webkit-text-stroke: 0,5px;
+    -webkit-text-stroke-color: black ;
+    
+}
+.sista {
+    font-size: 40px;
+    color: rgb(18, 82, 60);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
